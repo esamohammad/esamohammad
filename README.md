@@ -46,7 +46,7 @@ Hi, my name is Esa Ruhullah from Bangladesh 💖 and I am a web developer with a
 <img align='center' height='200'  src='https://raw.githubusercontent.com/MosFazli/MosFazli/main/assets/programmer.gif' alt='Skills'>
 
 ## 👨‍💻 Skills
-<p align="left" >
+<p align="center" >
   <a href="https://skillicons.dev">
     <img  src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,ts,firebase,express,mongodb,redux,sass,wordpress,ai,ps" />
   </a>
@@ -64,5 +64,7 @@ Hi, my name is Esa Ruhullah from Bangladesh 💖 and I am a web developer with a
 <br>
 <br>
 <div id="footer" align="center">
-  <img src="https://www.behance.net/gallery/68097599/Banner-Images-for-Coding-Challenges" width="150"/>
+  <img src="54b6c068097599 5b50bca476b9b" width="150"/>
 </div>
+
+
