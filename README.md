@@ -42,29 +42,18 @@ Hi, my name is Esa Ruhullah from Bangladesh 💖 and I am a web developer with a
 
 </div>
 
-<br />
 
-<br>
-<br>
+<img align='center' height='160' style="margin-left:5px" src='https://raw.githubusercontent.com/MosFazli/MosFazli/main/assets/programmer.gif' alt='Skills'>
 
-<img align='left' height='160' style="margin-left:20px" src='assets/programmer.gif' alt='Skills'>
-
-<br/>
 ## 👨‍💻 Skills
-
-<p align="left">
+<p align="left" >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,ts,firebase,express,mongodb,redux,sass,wordpress,ai,ps" />
+    <img  src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,ts,firebase,express,mongodb,redux,sass,wordpress,ai,ps" />
   </a>
 </p>
 
-<br/>
-
-<br /> 
-## 🎀 Favourite Stack
-
-<div align="left">
-
+## 💖 Favourite Stack
+<div align="center">
 <img alt="React.js" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img alt="Redux.js" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
 <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
@@ -72,4 +61,4 @@ Hi, my name is Esa Ruhullah from Bangladesh 💖 and I am a web developer with a
 <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
 <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </div>
-<br /> 
+
