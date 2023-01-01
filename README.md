@@ -7,12 +7,12 @@
 
 <div align="center">
   
-[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=react&logoColor=61DAFB">](https://prionto-71.web.app/)
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](https://mail.google.com/mail/?view=cm&fs=1&to=prionto71@gmail.com)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/prionto-abdullah/)
-[<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">](https://prionto71.medium.com/)
-[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/prionto.abdullah.71/)
-[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/prionto_abdullah/)
+[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=react&logoColor=61DAFB">](************)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](************)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](************)
+[<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">](************)
+[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](***********)
+[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](************)
 
 </div>
 
@@ -66,6 +66,7 @@ I am very glad to see you here 💖. I am a web developer with a passion for bui
 </div>
 <br>
 <br>
+
 <div id="footer" align="center">
  <img align='center' height='150' width="1366"  src='https://user-images.githubusercontent.com/113727503/210173573-4cae7e1c-f94c-4cd0-9acd-35641adf7bf5.gif' alt='Skills'>
 </div>
@@ -75,6 +76,7 @@ I am very glad to see you here 💖. I am a web developer with a passion for bui
 ![55 png](https://user-images.githubusercontent.com/113727503/210175898-86362362-5152-4849-9263-4a018cadd21e.png)
 
 ## 
+<!--
 
 <p align="center">
   
@@ -119,6 +121,7 @@ I am very glad to see you here 💖. I am a web developer with a passion for bui
   <a href="https://github.com/iamraufu/quotes">
     <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=iamraufu&repo=quotes&theme=react&bg_color=5300eb&hide_border=true" alt="quotes"></a>
     
+    
   <a href="https://github.com/iamraufu/jokes">
     <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=iamraufu&repo=jokes&theme=react&bg_color=5300eb&hide_border=true" alt="jokes"></a>
  
@@ -131,3 +134,4 @@ I am very glad to see you here 💖. I am a web developer with a passion for bui
   </a>
 
 </p>
+-->
