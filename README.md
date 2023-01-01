@@ -65,7 +65,7 @@ Hi, my name is Esa Ruhullah from Bangladesh 💖 and I am a web developer with a
 <br>
 <br>
 <div id="footer" align="center">
- <img align='center' height='200'  src='https://raw.githubusercontent.com/MosFazli/MosFazli/main/assets/programmer.gif' alt='Skills'>
+ <img align='center' height='150' width="1366"  src='https://user-images.githubusercontent.com/113727503/210173573-4cae7e1c-f94c-4cd0-9acd-35641adf7bf5.gif' alt='Skills'>
 </div>
 
 
