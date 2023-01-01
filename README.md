@@ -1,3 +1,4 @@
+
 <div id="header" align="center" background-color="violet">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="130"/>
 </div>
@@ -20,7 +21,7 @@
 I am very glad to see you here 💖. I am a web developer with a passion for building innovative and user-friendly websites and applications. I specialize in the 🎯MERN stack (MongoDB, Express, React, and Node.js) and have a strong foundation in front-end and back-end development. In my free time, I enjoy staying up to date with the latest web development technologies and techniques🌱, and I am always looking for new challenges to help me grow as a developer👨‍💻. I am excited to bring my skills and experience to new opportunities and help build the next generation of web-based solutions🚀.
 </div>
  <br />
-<div></div>
+
 <div>
   <div align = "center">
 <br />
@@ -42,8 +43,9 @@ I am very glad to see you here 💖. I am a web developer with a passion for bui
 
 </div>
 
-
+<div align="center">
 <img align='center' height='200'  src='https://raw.githubusercontent.com/MosFazli/MosFazli/main/assets/programmer.gif' alt='Skills'>
+</div>
 
 ## 👨‍💻 Skills
 <p align="center" >
@@ -68,3 +70,4 @@ I am very glad to see you here 💖. I am a web developer with a passion for bui
 </div>
 
 
+![55 png](https://user-images.githubusercontent.com/113727503/210175898-86362362-5152-4849-9263-4a018cadd21e.png)
