@@ -1,6 +1,8 @@
-<div id="header" align="center" background-color="violet">
+
+<div style="background-color: 0000be" id="header" align="center" background-color="violet">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="130"/>
 </div>
+
 <br /> 
 
 <div align="center">
