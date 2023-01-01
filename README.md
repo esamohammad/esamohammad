@@ -19,3 +19,22 @@
 <div align="left" text-align= "justify">
 Hi, my name is Esa Ruhullah from Bangladesh 💖 and I am a web developer with a passion for building innovative and user-friendly websites and applications. I specialize in the 🎯MERN stack (MongoDB, Express, React, and Node.js) and have a strong foundation in front-end and back-end development. In my free time, I enjoy staying up to date with the latest web development technologies and techniques🌱, and I am always looking for new challenges to help me grow as a developer👨‍💻. I am excited to bring my skills and experience to new opportunities and help build the next generation of web-based solutions🚀.
 </div>
+ <br />
+<div></div>
+<div>
+  <div align = "center">
+<br />
+  
+![focus](https://img.shields.io/badge/focus-FullStack-critical)
+![projects](https://img.shields.io/badge/projects-20-important)
+
+  <br />
+    </div>
+
+- 💖 I enjoy to make people laugh and coding.
+- 🌱 I’m currently learning React Native, Redux and Wordpress.
+- 👯 I’m looking to collaborate on MERN Stack projects with other passionate developers.
+- 🥅 2023 Goals: To be Master on React, React Native and Redux as well as Wordpress.
+- 🎯 Please have a look at my [Portfolio Site]( ) for more details about me. I'm open to feedback and suggestions!
+
+</div>
