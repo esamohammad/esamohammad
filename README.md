@@ -43,7 +43,7 @@ Hi, my name is Esa Ruhullah from Bangladesh 💖 and I am a web developer with a
 </div>
 
 
-<img align='center' height='160' style="margin-left:5px" src='https://raw.githubusercontent.com/MosFazli/MosFazli/main/assets/programmer.gif' alt='Skills'>
+<img align='center' height='200'  src='https://raw.githubusercontent.com/MosFazli/MosFazli/main/assets/programmer.gif' alt='Skills'>
 
 ## 👨‍💻 Skills
 <p align="left" >
@@ -61,4 +61,8 @@ Hi, my name is Esa Ruhullah from Bangladesh 💖 and I am a web developer with a
 <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
 <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </div>
-
+<br>
+<br>
+<div id="footer" align="center">
+  <img src="https://www.behance.net/gallery/68097599/Banner-Images-for-Coding-Challenges" width="150"/>
+</div>
