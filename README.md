@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div id="header" align="center" background-color="violet">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/>
 </div>
 <div id="badges" align="center">
@@ -12,6 +12,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
 <br>
 <h1 align="center"> Hello, I'm Esa Ruhullah <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"  > ! </h1>
 <h3 align="center">I'm an enthusiastic and passionate Web Developer from Bangladesh <img src="https://bestanimations.com/media/bangladesh/2076299211bangladesh-flag-waving-gif-animation-23.gif" width="70px" height="45px"/></h3>  
@@ -64,7 +65,7 @@ Hi, my name is Esa Ruhullah from Bangladesh 💖 and I am a web developer with a
 <br>
 <br>
 <div id="footer" align="center">
-  <img src="54b6c068097599 5b50bca476b9b" width="150"/>
+ <img align='center' height='200'  src='https://raw.githubusercontent.com/MosFazli/MosFazli/main/assets/programmer.gif' alt='Skills'>
 </div>
 
 
