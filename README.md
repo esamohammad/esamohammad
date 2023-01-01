@@ -1,24 +1,23 @@
 <div id="header" align="center" background-color="violet">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="130"/>
 </div>
-<div id="badges" align="center">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+<br /> 
+
+<div align="center">
+  
+[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=react&logoColor=61DAFB">](https://prionto-71.web.app/)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](https://mail.google.com/mail/?view=cm&fs=1&to=prionto71@gmail.com)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/prionto-abdullah/)
+[<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">](https://prionto71.medium.com/)
+[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/prionto.abdullah.71/)
+[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/prionto_abdullah/)
+
 </div>
 
-<br>
 <h1 align="center"> Hello, I'm Esa Ruhullah <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"  > ! </h1>
 <h3 align="center">I'm an enthusiastic and passionate Web Developer from Bangladesh <img src="https://bestanimations.com/media/bangladesh/2076299211bangladesh-flag-waving-gif-animation-23.gif" width="70px" height="45px"/></h3>  
-
 <div align="left" text-align= "justify">
-Hi, my name is Esa Ruhullah from Bangladesh 💖 and I am a web developer with a passion for building innovative and user-friendly websites and applications. I specialize in the 🎯MERN stack (MongoDB, Express, React, and Node.js) and have a strong foundation in front-end and back-end development. In my free time, I enjoy staying up to date with the latest web development technologies and techniques🌱, and I am always looking for new challenges to help me grow as a developer👨‍💻. I am excited to bring my skills and experience to new opportunities and help build the next generation of web-based solutions🚀.
+I am very glad to see you here 💖. I am a web developer with a passion for building innovative and user-friendly websites and applications. I specialize in the 🎯MERN stack (MongoDB, Express, React, and Node.js) and have a strong foundation in front-end and back-end development. In my free time, I enjoy staying up to date with the latest web development technologies and techniques🌱, and I am always looking for new challenges to help me grow as a developer👨‍💻. I am excited to bring my skills and experience to new opportunities and help build the next generation of web-based solutions🚀.
 </div>
  <br />
 <div></div>
