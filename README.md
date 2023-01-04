@@ -17,6 +17,7 @@
 </div>
 
 <h1 align="center"> Hello, I'm Esa Ruhullah <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"  > ! </h1>
+
 <h3 align="center">I'm an enthusiastic and passionate Web Developer from Bangladesh <img src="https://bestanimations.com/media/bangladesh/2076299211bangladesh-flag-waving-gif-animation-23.gif" width="70px" height="45px"/></h3>  
 <div align="left" text-align= "justify">
 I am very glad to see you here 💖. I am a web developer with a passion for building innovative and user-friendly websites and applications. I specialize in the 🎯MERN stack (MongoDB, Express, React, and Node.js) and have a strong foundation in front-end and back-end development. In my free time, I enjoy staying up to date with the latest web development technologies and techniques🌱, and I am always looking for new challenges to help me grow as a developer👨‍💻. I am excited to bring my skills and experience to new opportunities and help build the next generation of web-based solutions🚀.
@@ -48,6 +49,20 @@ I am very glad to see you here 💖. I am a web developer with a passion for bui
 <div align="center">
 <img align='center' height='200'  src='https://raw.githubusercontent.com/MosFazli/MosFazli/main/assets/programmer.gif' alt='Skills'>
 </div>
+
+
+
+<br><br>
+<div align="center">
+  
+##  📝🎯 Top Blog Posts 🎯📝
+</div> 
+
+-   [Frontend Testing Techniques](***************)
+-   [8 React Open-Source projects to learn and become a React.js Developer](***************)
+-   [Understand NFT in Simple Words](***************)
+-   [Journey to Become a Blockchain Developer](***************)
+-   [Are we in NFT Bubble?](***************)
 
 <br><br>
 <div align="center">
@@ -105,10 +120,17 @@ I am very glad to see you here 💖. I am a web developer with a passion for bui
   </div>
   <br>
   
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=mdesabd&theme=chartreuse-dark&bg_color=000&hide_border=true" width="100%"/>
+ 
 </p>
 
-<hr>
+
+<br><br>
+<div align="center">
+
+## 🎯💫 My Contribution Graph  💫🎯
+</div> 
+
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=mdesabd&theme=chartreuse-dark&bg_color=000&hide_border=true" width="100%"/>
 
 
 
@@ -119,10 +141,6 @@ I am very glad to see you here 💖. I am a web developer with a passion for bui
 
 
 
-
-<div id="footer" align="center">
- <img align='center' height='150' width="1366"  src='https://user-images.githubusercontent.com/113727503/210173573-4cae7e1c-f94c-4cd0-9acd-35641adf7bf5.gif' alt='Skills'>
-</div>
 <br>
 
 ![55 png](https://user-images.githubusercontent.com/113727503/210175898-86362362-5152-4849-9263-4a018cadd21e.png)
@@ -162,63 +180,15 @@ I am very glad to see you here 💖. I am a web developer with a passion for bui
     
   </a>
   
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdesabd&theme=dark&show_icons=true)
-  
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdesabd&hide=contribs,prs)
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdesabd&hide=contribs,prs)
-  
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/mdesabd/github-readme-stats)
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdesabd&count_private=true)
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/mdesabd/github-readme-stats)
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/mdesabd/github-readme-stats)
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/mdesabd/github-readme-stats)
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdesabd&layout=compact)](https://github.com/mdesabd/github-readme-stats)
 </p>
 
-  
- 
- ## 💖 Favourite Stack
- [![GitHub Streak](https://streak-stats.demolab.com?user=mdesabd&theme=algolia&border_radius=50&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
- 
 
 
-## 📝 Top Blog Posts
 
--   [Frontend Testing Techniques](https://medium.com/faun/frontend-testing-techniques-71f1cfebe917)
--   [8 React Open-Source projects to learn and become a React.js Developer](https://medium.com/datadriveninvestor/8-react-open-source-projects-to-learn-and-become-a-react-js-developer-8376107730c4)
--   [Understand NFT in Simple Words](https://medium.com/coinmonks/understand-nft-in-simple-words-2df9ce3fa4fb)
--   [Journey to Become a Blockchain Developer](https://medium.com/coinmonks/journey-to-become-a-blockchain-developer-ae31d062eb3a)
--   [Are we in NFT Bubble?](https://medium.com/coinmonks/are-we-in-nft-bubble-8a763f25b760)
-
-## Stats
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Adeel91&count_private=true&show_icons=true&include_all_commits=true&theme=prussian&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adeel91&hide=TeX&layout=compact&theme=prussian)
-
-
-      
-  
-  ### 🔥 My-Stats :
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdesabd&show_icons=true&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/anuraghazra/github-readme-stats) <br> <br>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mdesabd&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <hr>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
-
-
-
+<div id="footer" align="center">
+ <img align='center' height='150' width="1366"  src='https://user-images.githubusercontent.com/113727503/210173573-4cae7e1c-f94c-4cd0-9acd-35641adf7bf5.gif' alt='Skills'>
+</div>
 
 
 
