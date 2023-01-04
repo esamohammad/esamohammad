@@ -26,9 +26,10 @@ I am very glad to see you here 💖. I am a web developer with a passion for bui
 <div>
   <div align = "center">
 <br />
-  
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=113727503)
 ![focus](https://img.shields.io/badge/focus-FullStack-critical)
-![projects](https://img.shields.io/badge/projects-20-important)
+![projects](https://img.shields.io/badge/projects-30-important)
 
   <br />
     </div>
@@ -190,7 +191,7 @@ I am very glad to see you here 💖. I am a web developer with a passion for bui
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Adeel91&count_private=true&show_icons=true&include_all_commits=true&theme=prussian&layout=compact)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adeel91&hide=TeX&layout=compact&theme=prussian)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=113727503)
+
       
   
   ### 🔥 My-Stats :
