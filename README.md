@@ -140,9 +140,8 @@ I am very glad to see you here 💖. I am a web developer with a passion for bui
 
 
 
-
-<br>
-
+<!--  Project png-->
+<br><br>
 ![55 png](https://user-images.githubusercontent.com/113727503/210175898-86362362-5152-4849-9263-4a018cadd21e.png)
 <br>
 
@@ -155,7 +154,7 @@ I am very glad to see you here 💖. I am a web developer with a passion for bui
 </div>
 <!--======================================== -->
 
-
+<br>
 <p align="center">
   
   <a href="https://github.com/iamraufu/jbitl">
@@ -184,7 +183,7 @@ I am very glad to see you here 💖. I am a web developer with a passion for bui
 
 
 
-
+<br><br><br>
 <hr>
 <div id="footer" align="center">
  <img align='center' height='150' width="1366"  src='https://user-images.githubusercontent.com/113727503/210173573-4cae7e1c-f94c-4cd0-9acd-35641adf7bf5.gif' alt='Skills'>
