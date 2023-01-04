@@ -82,8 +82,8 @@ I am very glad to see you here 💖. I am a web developer with a passion for bui
 
 <p align="center">
   
-  <a href="https://github.com/mdesabd/E-Bike-Volti.git">
-    <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=iamraufu&repo=mern-ecommerce&theme=react&bg_color=5300eb&hide_border=true" alt="mern-ecommerce">
+  <a href="https://github.com/mdesabd/E-Bike-Volti">
+    <img width="260" src="https://denvercoder1-github-readme-stats.netlify.app/api/pin?username=mdesabd&repo=e-bike-volti&theme=react&bg_color=5300eb&hide_border=true" alt="e-bike-volti">
   </a>
   
   <a href="https://github.com/iamraufu/aachol-foundation">
