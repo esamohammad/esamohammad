@@ -105,7 +105,7 @@ I am very glad to see you here 💖. I am a web developer with a passion for bui
   </div>
   <br>
   
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=mdesabd&theme=algolia&bg_color=050F2C&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=mdesabd&theme=chartreuse-dark&bg_color=000&hide_border=true" width="100%"/>
 </p>
 
 <hr>
