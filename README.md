@@ -139,8 +139,7 @@ I am very glad to see you here 💖. I am a web developer with a passion for bui
 -->
   
  
-  <p>
-    ![Esa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdesabd&theme=dark&show_icons=true)
-
-       </P>
-       [![GitHub Streak](https://streak-stats.demolab.com/?user=mdesabd)](https://git.io/streak-stats)
+ 
+  [![GitHub Streak](https://streak-stats.demolab.com?user=mdesabd&theme=yellowdark&hide_border=true&border_radius=40&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+ 
+      
