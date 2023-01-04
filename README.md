@@ -140,7 +140,7 @@ I am very glad to see you here 💖. I am a web developer with a passion for bui
   
  
  ## 💖 Favourite Stack
- [![GitHub Streak](https://streak-stats.demolab.com?user=mdesabd&theme=algoria&hide_border=true&border_radius=40&locale=bn&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+ [![GitHub Streak](https://streak-stats.demolab.com?user=mdesabd&theme=algolia&border_radius=50&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
  
  ## new
  ## Skills
