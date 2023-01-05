@@ -58,7 +58,7 @@ I am very glad to see you here 💖. I am a web developer with a passion for bui
 ##  📝🎯 Top Blog Posts 🎯📝
 </div> 
 
--   [How to be a web developer in 2023?](https://medium.com/@esa.ce2020/how-to-be-a-web-developer-in-2023-just-focus-on-your-task-e2f7df5a6174){:target="_blank"}
+-   [How to be a web developer in 2023?](https://medium.com/@esa.ce2020/how-to-be-a-web-developer-in-2023-just-focus-on-your-task-e2f7df5a6174/?target=_blank)
 -   [8 React Open-Source projects to learn and become a React.js Developer](***************)
 -   [Understand NFT in Simple Words](***************)
 -   [Journey to Become a Blockchain Developer](***************)
