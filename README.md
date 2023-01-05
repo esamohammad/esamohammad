@@ -1,4 +1,3 @@
-
 <div style="background-color: 0000be" id="header" align="center" background-color="violet">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="130"/>
 </div>
@@ -96,11 +95,8 @@ I am very glad to see you here 💖. I am a web developer with a passion for bui
 
 <br><br>
 <div align="center">
-
-  
+ 
 ## 🌟❄ My Stats ❄🌟</h2>  
-<!-- <h2 align="center">  -->
-<!-- ⚡ -->
 </div> 
 
 <p align=center>
@@ -131,13 +127,6 @@ I am very glad to see you here 💖. I am a web developer with a passion for bui
 </div> 
 
  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=mdesabd&theme=chartreuse-dark&bg_color=000&hide_border=true" width="100%"/>
-
-
-
-
-
-
-
 
 
 <!--  Project png-->
@@ -175,10 +164,8 @@ I am very glad to see you here 💖. I am a web developer with a passion for bui
   </a>
    
   <a href="https://autofix23.netlify.app/">
-    <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=mdesabd&repo=Cars-Repair-Site-Autofix&theme=react&bg_color=161698&hide_border=true" alt="Cars-Repair-Site-Autofix">
-    
+    <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=mdesabd&repo=Cars-Repair-Site-Autofix&theme=react&bg_color=161698&hide_border=true" alt="Cars-Repair-Site-Autofix">   
   </a>
-  
 </p>
 
 
@@ -190,9 +177,10 @@ I am very glad to see you here 💖. I am a web developer with a passion for bui
 </div>
 
 
-
-
-
-
+<!--===============================================================================================================================================-->
+<!--==========================================================🎀🎁✨ Note Please ✨🎁🎀==========================================================-->
+<!--==================================================================================================================================================  
+Notes: If you want use this readme, firstly star it please. If you can't align your repositories like this, please change your repository description. 
+===================================================================================================================================================-->
 
 
