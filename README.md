@@ -1,3 +1,4 @@
+
 <div style="background-color: 0000be" id="header" align="center" background-color="violet">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="130"/>
 </div>
@@ -15,6 +16,7 @@
 
 </div>
 
+<div>
 <!--hand gif  -->
 <h1 align="center"> Hello, I'm Esa Ruhullah <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"  > ! </h1>
 
@@ -26,13 +28,14 @@ I am a web developer💖✨ with a passion for building innovative and user-frie
  <br />
 
 <div>
+  
   <div align = "center">
 <br />
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=113727503)
 ![focus](https://img.shields.io/badge/focus-FullStack-critical)
 ![projects](https://img.shields.io/badge/projects-30-important)
-<img align='right' height='150'  src='https://raw.githubusercontent.com/MosFazli/MosFazli/main/assets/programmer.gif' alt='Skills'>
+<img align='right' height='200'  src='https://user-images.githubusercontent.com/113727503/211640671-ad9fe273-eccd-472c-b563-aadbf7410b16.gif'>
   <br />
     </div>
 
