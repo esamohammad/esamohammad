@@ -51,7 +51,7 @@ I am a web developer💖✨ with a passion for building innovative and user-frie
 </div>
 <br><br>
 <div align="center">
-<img align='center' height='250'  src='https://user-images.githubusercontent.com/113727503/211645614-71f5041e-e5b8-4089-8fee-6bce8d6bdd34.gif' alt='Skills'>
+<img align='center' height='210'  src='https://user-images.githubusercontent.com/113727503/211645614-71f5041e-e5b8-4089-8fee-6bce8d6bdd34.gif' alt='Skills'>
 </div>
 
 
