@@ -21,7 +21,7 @@
 <!--Bd flag-->
 <h3 align="center">I'm an enthusiastic and passionate Web Developer from Bangladesh <img src="https://bestanimations.com/media/bangladesh/1932860375bangladesh-flag-waving-gif-animation-6.gif#.Y7aWtlAZZRY.link" width="100px" height="60px"/></h3>  
 <div align="left" text-align= "justify">
-I am very glad to see you here 💖. I am a web developer with a passion for building innovative and user-friendly websites and applications. I specialize in the 🎯MERN stack (MongoDB, Express, React, and Node.js) and have a strong foundation in front-end and back-end development. In my free time, I enjoy staying up to date with the latest web development technologies and techniques🌱, and I am always looking for new challenges to help me grow as a developer👨‍💻. I am excited to bring my skills and experience to new opportunities and help build the next generation of web-based solutions🚀.
+I am a web developer💖✨ with a passion for building innovative and user-friendly websites and applications. I specialize in the 🎯MERN stack (MongoDB, Express, React, and Node.js) and have a strong foundation in front-end and back-end development. In my free time, I enjoy staying up to date with the latest web development technologies and techniques🌱, and I am always looking for new challenges to help me grow as a developer👨‍💻. I am excited to bring my skills and experience to new opportunities and help build the next generation of web-based solutions🚀.
 </div>
  <br />
 
