@@ -35,6 +35,7 @@ I am a web developer💖✨ with a passion for building innovative and user-frie
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=113727503)
 ![focus](https://img.shields.io/badge/focus-FullStack-critical)
 ![projects](https://img.shields.io/badge/projects-30-important)
+    <br><br>
 <img align='right' height='200'  src='https://user-images.githubusercontent.com/113727503/211640671-ad9fe273-eccd-472c-b563-aadbf7410b16.gif'>
   <br />
     </div>
