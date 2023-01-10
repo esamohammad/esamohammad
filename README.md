@@ -41,7 +41,7 @@ I am very glad to see you here 💖. I am a web developer with a passion for bui
 - 👯 I’m looking to collaborate on MERN Stack projects with other passionate developers.
 - 💬 Ask me about React, Express, MongoDB, Firebase, JavaScript
 - 🥅 2023 Goals: To be Master on React, React Native and Redux as well as Wordpress.
-- 👯 I’m looking to collaborate on Booking Web Application.  
+- 👯 I’m looking to collaborate on Functional React Web Application.  
 - 📧 How to reach me: esa.webdeveloper@gmail.com
 - 🎯 Please have a look at my [Portfolio Site]( ) for more details about me. I'm always open to feedback.
 
