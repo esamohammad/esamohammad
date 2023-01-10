@@ -1,4 +1,5 @@
 
+
 <div style="background-color: 0000be" id="header" align="center" background-color="violet">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="130"/>
 </div>
@@ -52,17 +53,17 @@ I am a web developer💖✨ with a passion for building innovative and user-frie
 </div>
 <br><br>
 <div align="center">
-<img align='center' height='210'  src='https://user-images.githubusercontent.com/113727503/211645614-71f5041e-e5b8-4089-8fee-6bce8d6bdd34.gif' alt='Skills'>
+<img align='center' height='180'  src='https://user-images.githubusercontent.com/113727503/211645614-71f5041e-e5b8-4089-8fee-6bce8d6bdd34.gif' alt='Skills'>
 </div>
 
 
 
-<br><br>
+<br>
 <div align="center">
   
 ##  📝🎯 Top Blog Posts 🎯📝
 </div> 
-<img align='right' height='200'  src='https://user-images.githubusercontent.com/113727503/211640671-ad9fe273-eccd-472c-b563-aadbf7410b16.gif'>
+<img align='right' height='220'  src='https://user-images.githubusercontent.com/113727503/211651804-d9119dfd-60bb-4322-a8c0-20689debad5a.gif'>
   
 -   [How to be a web developer in 2023?](https://medium.com/@esa.ce2020/how-to-be-a-web-developer-in-2023-just-focus-on-your-task-e2f7df5a6174?target=_blank)
 -   [8 React Open-Source projects to learn and become a React.js Developer](***************)
@@ -72,6 +73,7 @@ I am a web developer💖✨ with a passion for building innovative and user-frie
 
 <br><br>
 <div align="center">
+  <br><br>
   
 ## 💥 💻 My Skills 💻💥
 </div> 
