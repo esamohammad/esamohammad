@@ -44,7 +44,6 @@ I am a web developer💖✨ with a passion for building innovative and user-frie
 - 💖 I enjoy to make people laugh and coding.
 - 🌱 I’m currently learning React Native and Wordpress.
 - 👯 I’m looking to collaborate on MERN Stack projects with other passionate developers.
-- 💬 Ask me about React, Express, MongoDB, Firebase, JavaScript
 - 🥅 2023 Goals: To be Master on React, React Native and Redux as well as Wordpress.
 - 👯 I’m looking to collaborate on Functional React Web Application.  
 - 📧 How to reach me: esa.webdeveloper@gmail.com
