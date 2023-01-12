@@ -112,12 +112,13 @@ I am a web developer💖✨ with a passion for building innovative and user-frie
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <img align="center" width=420 src="https://github-readme-streak-stats.herokuapp.com/?user=mdesabd&theme=algolia&border=80dafb&hide_border=true" alt="mdesabd" />
     </a>
+ <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+   <img align="center" width=420 src="https://github-readme-stats.vercel.app/api?username=mdesabd&show_icons=true&theme=algolia&border_color=61dafb&hide_border=true"/>
+    </a> 
     
 <!--     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
      <img align="center" width=420 src="https://github-readme-stats.vercel.app/api?username=mdesabd&show_icons=true&theme=algolia&border_color=61dafb&hide_border=true"/>
     </a> -->
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdesabd&show_icons=true&theme=algolia)
-  </div>
   <br>
   
   <div align=center>
@@ -126,8 +127,6 @@ I am a web developer💖✨ with a passion for building innovative and user-frie
     </a>
   </div>
   <br>
-  
- 
 </p>
 
 
