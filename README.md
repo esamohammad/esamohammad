@@ -198,15 +198,15 @@ I am a web developer💖✨ with a passion for building innovative and user-frie
 <p align="center">
   
 <a href="https://cooming-soon-23.netlify.app/">
-    <img width="260" target="_blank" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=mdesabd&repo=Comming-Soon-landing-page&theme=react&bg_color=17145E&hide_border=true" alt="Tour-Site-Travelgo">   
+    <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=mdesabd&repo=Comming-Soon-landing-page&theme=react&bg_color=17145E&hide_border=true" alt="Tour-Site-Travelgo">   
   </a>
   
-  <a href="https://video-background-23.netlify.app/" target="_blank">
+  <a href="https://video-background-23.netlify.app/">
     <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=mdesabd&repo=Background-Vedio-Front-Page-2&theme=react&bg_color=000&hide_border=true" alt="E-Bike-Volti">   
   </a>
   
   <a href="https://react-countdown-23.netlify.app/">
-    <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=mdesabd&repo=React-Countdown&theme=react&bg_color=17145E&hide_border=true" target="_blank" alt="Restaurant-Site-Pakusta">   
+    <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=mdesabd&repo=React-Countdown&theme=react&bg_color=17145E&hide_border=true"  alt="Restaurant-Site-Pakusta">   
   </a>
     
 <!--    <a href="https://coffee-bee.netlify.app/">
