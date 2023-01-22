@@ -73,8 +73,10 @@ I am a web developer💖✨ with a passion for building innovative and user-frie
 <br><br>
 <div align="center">
   <br><br>
+<!--  ================================================  -->
   
-## 💥 💻 My Skills 💻💥
+## 💥 💻 My Skills 💻💥 
+<!--  ================================================  -->
 </div> 
 
 <p align="center" >
@@ -85,8 +87,10 @@ I am a web developer💖✨ with a passion for building innovative and user-frie
 
 <br><br>
 <div align="center">
+ <!--  ================================================  -->
 
 ## 💖⚡ My Favourite Stack ⚡💖
+ <!--  ================================================  -->
 </div> 
 
 <div align="center">
