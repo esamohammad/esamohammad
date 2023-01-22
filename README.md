@@ -60,7 +60,7 @@ I am a web developer💖✨ with a passion for building innovative and user-frie
 <br>
 <div align="center">
   
-##  📝🎯 Top Blog Posts 🎯📝
+##  📝 Top Blog Posts 📝
 </div> 
 <img align='right' height='220'  src='https://user-images.githubusercontent.com/113727503/211651804-d9119dfd-60bb-4322-a8c0-20689debad5a.gif'>
   
@@ -75,7 +75,7 @@ I am a web developer💖✨ with a passion for building innovative and user-frie
   <br><br>
 <!--  ================================================  -->
   
-## 💥 💻 My Skills 💻💥 
+## 💥 My Skills 💥 
 <!--  ================================================  -->
 </div> 
 
@@ -89,7 +89,7 @@ I am a web developer💖✨ with a passion for building innovative and user-frie
 <div align="center">
  <!--  ================================================  -->
 
-## 💖⚡ My Favourite Stack ⚡💖
+## 💖 My Favourite Stack 💖
  <!--  ================================================  -->
 </div> 
 
