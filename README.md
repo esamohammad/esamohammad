@@ -127,7 +127,7 @@ I am a web developer💖✨ with a passion for building innovative and user-frie
   
   <div align=center>
     <a href="https://github.com/mdesabd/github-readme-stats">
-      <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdesabd&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=ffa726&text_color=ffffff&icon_color=61dafb&bg_color=000&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+      <img width=425 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdesabd&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=ffa726&text_color=ffffff&icon_color=61dafb&bg_color=000&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br>
