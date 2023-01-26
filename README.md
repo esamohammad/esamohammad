@@ -119,12 +119,12 @@ I am a web developer💖✨ with a passion for building innovative and user-frie
 
     
 
-  <br>  <br>
+  
   
   <div align=center>
 
   </div>
-  <br>
+ 
 </p>
 
 
