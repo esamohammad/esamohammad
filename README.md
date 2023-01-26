@@ -115,23 +115,14 @@ I am a web developer💖✨ with a passion for building innovative and user-frie
 
 <p align=center>
   <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="center" width=410 src="https://github-readme-streak-stats.herokuapp.com/?user=mdesabd&theme=algolia&border=80dafb&hide_border=true" alt="mdesabd" />
-    </a>
- 
- <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-   <img align="center" width=410 src="https://github-readme-stats.vercel.app/api?username=mdesabd&show_icons=true&theme=algolia&border_color=61dafb&hide_border=true"/>
-    </a> 
+
+
     
-<!--     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-     <img align="center" width=420 src="https://github-readme-stats.vercel.app/api?username=mdesabd&show_icons=true&theme=algolia&border_color=61dafb&hide_border=true"/>
-    </a> -->
+
   <br>  <br>
   
   <div align=center>
-    <a href="https://github.com/mdesabd/github-readme-stats">
-      <img width=410 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdesabd&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=ffa726&text_color=ffffff&icon_color=61dafb&bg_color=000&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-    </a>
+
   </div>
   <br>
 </p>
@@ -146,11 +137,11 @@ I am a web developer💖✨ with a passion for building innovative and user-frie
 
 
 
-<nobr><img align="center" src="https://github-readme-stats.vercel.app/api?username=mdesabd&show_icons=true&line_height=27&count_private=true&title_color=43ffaf&text_color=e5f7ef&icon_color=43ffaf&bg_color=262a33&hide_border=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdesabd&title_color=43ffaf&text_color=e5f7ef&icon_color=526777&hide_border=true&bg_color=262a33&langs_count=3" />
+<nobr><img align="center" src="https://github-readme-stats.vercel.app/api?username=mdesabd&show_icons=true&line_height=27&count_private=true&title_color=43ffaf&text_color=e5f7ef&icon_color=43ffaf&bg_color=0D1117&hide_border=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdesabd&title_color=43ffaf&text_color=e5f7ef&icon_color=526777&hide_border=true&bg_color=0D1117&langs_count=3" />
 </nobr>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=mdesabd&hide_border=true&background=262A33&ring=43FFAF&fire=43FFAF&currStreakNum=E5F7EF&sideLabels=E5F7EF&dates=526777&currStreakLabel=E5F7EF&sideNums=43FFAF" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=mdesabd&hide_border=true&background=0D1117&ring=43FFAF&fire=43FFAF&currStreakNum=E5F7EF&sideLabels=E5F7EF&dates=526777&currStreakLabel=E5F7EF&sideNums=43FFAF" /></p>
 
 
 
