@@ -115,56 +115,18 @@ I am a web developer💖✨ with a passion for building innovative and user-frie
 
 <p align=center>
   <div align=center>
-
-
-    
-
-  
-  
+ 
   <div align=center>
 
   </div>
  
 </p>
 
-
-
-
-
-
-
-
-
-
-
 <nobr><img align="center" src="https://github-readme-stats.vercel.app/api?username=mdesabd&show_icons=true&line_height=27&count_private=true&title_color=43ffaf&text_color=e5f7ef&icon_color=43ffaf&bg_color=0D1117&hide_border=true" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdesabd&title_color=43ffaf&text_color=e5f7ef&icon_color=526777&hide_border=true&bg_color=0D1117&langs_count=3" />
 </nobr>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=mdesabd&hide_border=true&background=0D1117&ring=43FFAF&fire=43FFAF&currStreakNum=E5F7EF&sideLabels=E5F7EF&dates=526777&currStreakLabel=E5F7EF&sideNums=43FFAF" /></p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 <br><br>
@@ -195,27 +157,27 @@ I am a web developer💖✨ with a passion for building innovative and user-frie
 <p align="center">
   
 <a href="https://autofix23.netlify.app/">
-    <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=mdesabd&repo=Cars-Repair-Site-Autofix&theme=react&bg_color=17145E&hide_border=true" alt="Cars-Repair-Site-Autofix">   
+    <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=mdesabd&repo=Cars-Repair-Site-Autofix&theme=chartreuse-dark&bg_color=000&hide_border=true" alt="Cars-Repair-Site-Autofix">   
   </a>
   
   <a href="https://volti.netlify.app/">
-    <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=mdesabd&repo=E-Bike-Volti&theme=react&bg_color=000&hide_border=true" alt="E-Bike-Volti">   
+    <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=mdesabd&repo=E-Bike-Volti&theme=chartreuse-dark&bg_color=000&hide_border=true" alt="E-Bike-Volti">   
   </a>
   
   <a href="https://pakusta.netlify.app/">
-    <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=mdesabd&repo=Restaurant-Site-Pakusta&theme=react&bg_color=17145E&hide_border=true" alt="Restaurant-Site-Pakusta">   
+    <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=mdesabd&repo=Restaurant-Site-Pakusta&theme=chartreuse-dark&bg_color=000&hide_border=true" alt="Restaurant-Site-Pakusta">   
   </a>
     
    <a href="https://coffee-bee.netlify.app/">
-    <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=mdesabd&repo=Coffee-Website&theme=react&bg_color=17145E&hide_border=true" alt="Coffee-Website">   
+    <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=mdesabd&repo=Coffee-Website&theme=chartreuse-dark&bg_color=000&hide_border=true" alt="Coffee-Website">   
   </a>
   
   <a href="https://befit-23.netlify.app/">
-    <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=mdesabd&repo=Gym-site-Befit&theme=react&bg_color=000&hide_border=true" alt="Gym-site-Befit">   
+    <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=mdesabd&repo=Gym-site-Befit&theme=chartreuse-dark&bg_color=000&hide_border=true" alt="Gym-site-Befit">   
   </a>
    
   <a href="https://travelgo23.netlify.app/">
-    <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=mdesabd&repo=Tour-Site-Travelgo&theme=react&bg_color=17145E&hide_border=true" alt="Tour-Site-Travelgo">   
+    <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=mdesabd&repo=Tour-Site-Travelgo&theme=chartreuse-dark&bg_color=000&hide_border=true" alt="Tour-Site-Travelgo">   
   </a>
   
 </p>
