@@ -139,16 +139,17 @@ I am a web developer💖✨ with a passion for building innovative and user-frie
 
 
 
-<br><br>
+<hr>
 <!--  Project png-->
-![55 png](https://user-images.githubusercontent.com/113727503/210175898-86362362-5152-4849-9263-4a018cadd21e.png)
-<br>
+<!-- ![55 png](https://user-images.githubusercontent.com/113727503/210175898-86362362-5152-4849-9263-4a018cadd21e.png) -->
+<img align='center' height='170' width="1366"  src='https://user-images.githubusercontent.com/113727503/210175898-86362362-5152-4849-9263-4a018cadd21e.png' alt='Skills'>
+<hr>
 
 
 <!--======================================== -->
 <div id="project Developed Templates" align="center">
 
-## 💖😉💥💝 Developed Templates 💝💥😉💖
+## 💥 Developed Templates 💥
 
 </div>
 <!--======================================== -->
@@ -188,7 +189,7 @@ I am a web developer💖✨ with a passion for building innovative and user-frie
 <!--======================================== -->
 <div id="Developed React project" align="center">
 
-## 💥🥇💎🏆 Developed Simple Project 🏆💎🥇💥 
+## 🥇💎 Developed Simple Project 💎🥇
 
 </div>
 <!--======================================== -->
@@ -231,7 +232,7 @@ I am a web developer💖✨ with a passion for building innovative and user-frie
 <!--======================================== -->
 <div id="My Own Project" align="center">
 
-## 💥💥🥇🏆🏆 My Own Project 🏆🏆🥇💥💥
+## 💥🥇 My Own Project 🥇💥
 
 </div>
 <!--======================================== -->
@@ -267,7 +268,7 @@ I am a web developer💖✨ with a passion for building innovative and user-frie
 
 
 <!--===============================================================================================================================================-->
-<!--==========================================================🎀🎁✨ Note Please ✨🎁🎀==========================================================-->
+<!--=======================================================🎀🎁✨🎀🎁✨ Note Please ✨🎁🎀✨🎁🎀===============================================-->
 <!--==================================================================================================================================================  
 Notes: If you want use this readme, firstly star it please. If you can't align your repositories like this, please change your repository description. 
 ===================================================================================================================================================-->
