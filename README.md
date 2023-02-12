@@ -228,7 +228,7 @@ I am a web developer💖✨ with a passion for building innovative and user-frie
 <!--======================================== -->
 <div id="Developed React project" align="center">
 
-## 🥇💎 Developed Simple Project 💎🥇
+## 🥇💎 React Project 💎🥇
 
 </div>
 <!--======================================== -->
