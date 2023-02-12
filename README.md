@@ -188,7 +188,7 @@ I am a web developer💖✨ with a passion for building innovative and user-frie
 <!--======================================== -->
 <div id="project Developed Templates" align="center">
 
-## 💥 Developed Templates 💥
+## 💥 Developed HTML Templates 💥
 
 </div>
 <!--======================================== -->
