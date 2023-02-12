@@ -145,7 +145,46 @@ I am a web developer💖✨ with a passion for building innovative and user-frie
 <img align='center' height='170' width="1366"  src='https://user-images.githubusercontent.com/113727503/210175898-86362362-5152-4849-9263-4a018cadd21e.png' alt='Skills'>
 <hr>
 
+<!--======================================== -->
+<div id="project Developed Templates" align="center">
 
+## 💥 Java Script Fun Project 💥
+
+</div>
+<!--======================================== -->
+
+<br>
+<p align="center">
+  
+<a href="https://autofix23.netlify.app/">
+    <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=mdesabd&repo=Cars-Repair-Site-Autofix&theme=chartreuse-dark&bg_color=000&hide_border=true" alt="Cars-Repair-Site-Autofix">   
+  </a>
+  
+  <a href="https://volti.netlify.app/">
+    <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=mdesabd&repo=E-Bike-Volti&theme=chartreuse-dark&bg_color=000&hide_border=true" alt="E-Bike-Volti">   
+  </a>
+  
+<!--   <a href="https://pakusta.netlify.app/">
+    <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=mdesabd&repo=Restaurant-Site-Pakusta&theme=chartreuse-dark&bg_color=000&hide_border=true" alt="Restaurant-Site-Pakusta">   
+  </a>
+     -->
+   <a href="https://coffee-bee.netlify.app/">
+    <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=mdesabd&repo=Coffee-Website&theme=chartreuse-dark&bg_color=000&hide_border=true" alt="Coffee-Website">   
+  </a>
+  
+  <a href="https://befit-23.netlify.app/">
+    <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=mdesabd&repo=Gym-site-Befit&theme=chartreuse-dark&bg_color=000&hide_border=true" alt="Gym-site-Befit">   
+  </a>
+   
+  <a href="https://travelgo23.netlify.app/">
+    <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=mdesabd&repo=Tour-Site-Travelgo&theme=chartreuse-dark&bg_color=000&hide_border=true" alt="Tour-Site-Travelgo">   
+  </a>
+  
+</p>
+
+
+
+<br><br><br><br>
 <!--======================================== -->
 <div id="project Developed Templates" align="center">
 
