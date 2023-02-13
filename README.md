@@ -172,8 +172,8 @@ I am a web developer💖✨ with a passion for building innovative and user-frie
     <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=mdesabd&repo=Ramadan-Day-Countdown&theme=chartreuse-dark&bg_color=000&hide_border=true" alt="Coffee-Website">   
   </a>
   
-  <a href="https://befit-23.netlify.app/">
-    <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=mdesabd&repo=Gym-site-Befit&theme=chartreuse-dark&bg_color=000&hide_border=true" alt="Gym-site-Befit">   
+  <a href="https://js-calculator-23.netlify.app/">
+    <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=mdesabd&repo=js-fun-project-calculator&theme=chartreuse-dark&bg_color=000&hide_border=true" alt="Gym-site-Befit">   
   </a>
    
   <a href="https://travelgo23.netlify.app/">
