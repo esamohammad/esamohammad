@@ -180,9 +180,9 @@ I am a web developer💖✨ with a passion for building innovative and user-frie
     <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=mdesabd&repo=Comming-Soon-landing-page&theme=chartreuse-dark&bg_color=000&hide_border=true" alt="Tour-Site-Travelgo">   
   </a>
   
-  <a href="https://disital-clock.netlify.app/">
+<!--   <a href="https://disital-clock.netlify.app/">
     <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=mdesabd&repo=js-fun-project-disital-clock&theme=chartreuse-dark&bg_color=000&hide_border=true" alt="Tour-Site-Travelgo">   
-  </a>
+  </a> -->
 </p>
 
 
