@@ -188,11 +188,11 @@ I am a web developer💖✨ with a passion for building innovative and user-frie
 
 <!-- <br><br><br><br>
 <!--======================================== -->
-<div id="project Developed Templates" align="center">
+<!-- <div id="project Developed Templates" align="center">
 
 ## 💥 Developed HTML Templates 💥
 
-</div>
+</div> -->
 <!--======================================== -->
 <!-- 
 <br>
@@ -210,7 +210,7 @@ I am a web developer💖✨ with a passion for building innovative and user-frie
     <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=mdesabd&repo=Restaurant-Site-Pakusta&theme=chartreuse-dark&bg_color=000&hide_border=true" alt="Restaurant-Site-Pakusta">   
   </a>
      -->
-   <a href="https://coffee-bee.netlify.app/">
+<!--    <a href="https://coffee-bee.netlify.app/">
     <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=mdesabd&repo=Coffee-Website&theme=chartreuse-dark&bg_color=000&hide_border=true" alt="Coffee-Website">   
   </a>
   
@@ -220,7 +220,7 @@ I am a web developer💖✨ with a passion for building innovative and user-frie
    
   <a href="https://travelgo23.netlify.app/">
     <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=mdesabd&repo=Tour-Site-Travelgo&theme=chartreuse-dark&bg_color=000&hide_border=true" alt="Tour-Site-Travelgo">   
-  </a>
+  </a> -->
   
 </p> -->
 
@@ -230,7 +230,7 @@ I am a web developer💖✨ with a passion for building innovative and user-frie
 <!--======================================== -->
 <div id="Developed React project" align="center">
 
-## 🥇💎 React Project 💎🥇
+<!-- ## 🥇💎 React Project 💎🥇 -->
 
 </div>
 <!--======================================== -->
@@ -258,7 +258,7 @@ I am a web developer💖✨ with a passion for building innovative and user-frie
   
   <a href="https://bg-animation.netlify.app/">
     <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=mdesabd&repo=Gradient-BG-Animation&theme=react&bg_color=000&hide_border=true" alt="">   
-  </a>
+<!--   </a> -->
    
   <a href="https://ramadan-2023.netlify.app/">
     <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=mdesabd&repo=Ramadan-Day-Countdown&theme=react&bg_color=17145E&hide_border=true" alt="Tour-Site-Travelgo">   
