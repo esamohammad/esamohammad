@@ -80,7 +80,7 @@ I am a web developer💖✨ with a passion for building innovative and user-frie
 
 <p align="center" >
   <a href="https://skillicons.dev">
-    <img  src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,firebase,express,mongodb,node,ai,ps" />
+    <img  src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,express,firebase,mongodb,netlify,vercel,ps,node" />
   </a>
 </p>
 
