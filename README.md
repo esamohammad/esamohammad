@@ -60,9 +60,10 @@ I am a web developer💖✨ with a passion for building innovative and user-frie
 <div align="center">
   
 ##  📝 Top Blog Posts 📝
-</div> 
+
 <img align='right' height='220'  src='https://user-images.githubusercontent.com/113727503/211651804-d9119dfd-60bb-4322-a8c0-20689debad5a.gif'>
   
+
 -   [How to be a web developer in 2023?](https://medium.com/@esa.ce2020/how-to-be-a-web-developer-in-2023-just-focus-on-your-task-e2f7df5a6174?target=_blank)
 -   [8 React Open-Source projects to learn and become a React.js Developer](***************)
 
@@ -70,6 +71,8 @@ I am a web developer💖✨ with a passion for building innovative and user-frie
 
 
 <br><br>
+    </div> 
+  <br>
 <div align="center">
   <br><br>
 <!--  ================================================  -->
