@@ -68,7 +68,7 @@ I am a web developer💖✨ with a passion for building innovative and user-frie
   
 
 -   [How to be a web developer in 2023?](https://medium.com/@esa.ce2020/how-to-be-a-web-developer-in-2023-just-focus-on-your-task-e2f7df5a6174?target=_blank)
--   [8 React Open-Source projects to learn and become a React.js Developer](***************)
+<!-- -   [8 React Open-Source projects to learn and become a React.js Developer](***************) -->
 
 
 
