@@ -68,12 +68,13 @@ I am a web developer💖✨ with a passion for building innovative and user-frie
   
 
 -   [How to be a web developer in 2023?](https://medium.com/@esa.ce2020/how-to-be-a-web-developer-in-2023-just-focus-on-your-task-e2f7df5a6174?target=_blank)
-<!-- -   [8 React Open-Source projects to learn and become a React.js Developer](***************) -->
+-   [CSS Grid and Flex Example.](https://medium.com/@esa.ce2020/grid-and-flex-in-css-b1ddc09e4095)
+-   [MERN Stack or Wordpress ??](https://medium.com/@esa.ce2020/mern-stack-or-wordpress-a9057dc8d21c)
+-   [Useful extension of VS code.](https://medium.com/@esa.ce2020/useful-extension-of-vs-code-4e5321ec040d)
 
 
 
 
-<br><br>
     </div> 
   <br>
 <div align="center">
@@ -84,12 +85,13 @@ I am a web developer💖✨ with a passion for building innovative and user-frie
 <!--  ================================================  -->
   <!-- 💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥 -->
 </div> 
-
+<div align="center">
 <p align="center" >
   <a href="https://skillicons.dev">
     <img  src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,express,firebase,mongodb,netlify,vercel,ps,node" />
   </a>
 </p>
+  </div>
 
 <br><br>
 <div align="center">
