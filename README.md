@@ -82,6 +82,7 @@ I am a web developer💖✨ with a passion for building innovative and user-frie
   
 ## 💥 My Skills 💥 
 <!--  ================================================  -->
+  <!-- 💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥 -->
 </div> 
 
 <p align="center" >
@@ -96,6 +97,7 @@ I am a web developer💖✨ with a passion for building innovative and user-frie
 
 ## 💖 My Favourite Stack 💖
  <!--  ================================================  -->
+  <!-- 💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥 -->
 </div> 
   
 <!-- <img alt="Redux.js" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" /> -->
@@ -116,6 +118,7 @@ I am a web developer💖✨ with a passion for building innovative and user-frie
  
 ## 🌟❄ My Stats ❄🌟</h2>  
    <!--  ================================================  -->
+  <!-- 💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥 -->
 </div> 
 
 <p align=center>
@@ -139,6 +142,7 @@ I am a web developer💖✨ with a passion for building innovative and user-frie
 
 ## 🎯💫 My Contribution Graph  💫🎯
    <!--  ================================================  -->
+   <!-- 💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥 -->
 </div> 
 
  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=esamohammad&theme=chartreuse-dark&bg_color=000&hide_border=true" width="100%"/>
@@ -158,7 +162,7 @@ I am a web developer💖✨ with a passion for building innovative and user-frie
 
 </div>
 <!--======================================== -->
-
+<!-- 💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥 -->
 <br>
 <p align="center">
 <!--   1 -->
@@ -218,7 +222,7 @@ I am a web developer💖✨ with a passion for building innovative and user-frie
 
 </div> 
 <!--======================================== -->
-
+<!-- 💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥 -->
 <br>
 <p align="center">
 <!--   1 -->
@@ -232,25 +236,11 @@ I am a web developer💖✨ with a passion for building innovative and user-frie
   </a>
   
 <!--   3 -->
- <a href="https://pakusta.netlify.app/">
-    <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=mdesabd&repo=Restaurant-Site-Pakusta&theme=chartreuse-dark&bg_color=000&hide_border=true" alt="Restaurant-Site-Pakusta">   
+ <a href="https://gardening-23.netlify.app/">
+    <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=esamohammad&repo=gardening-website&theme=chartreuse-dark&bg_color=000&hide_border=true" alt="Cars-Repair-Site-Autofix">   
   </a>
      
-<!--   4 -->
-<a href="https://coffee-bee.netlify.app/">
-    <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=mdesabd&repo=Coffee-Website&theme=chartreuse-dark&bg_color=000&hide_border=true" alt="Coffee-Website">   
-  </a>
-  
-<!--   5 -->
-  <a href="https://befit-23.netlify.app/">
-    <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=mdesabd&repo=Gym-site-Befit&theme=chartreuse-dark&bg_color=000&hide_border=true" alt="Gym-site-Befit">   
-  </a>
-  
-<!--   6 -->
-  <a href="https://travelgo23.netlify.app/">
-    <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=mdesabd&repo=Tour-Site-Travelgo&theme=chartreuse-dark&bg_color=000&hide_border=true" alt="Tour-Site-Travelgo">   
-  </a> 
-  
+
 </p> 
 
     
