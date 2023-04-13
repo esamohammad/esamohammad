@@ -131,12 +131,15 @@ I am a web developer💖✨ with a passion for building innovative and user-frie
   </div>
  
 </p>
-
+<table><tr><td>
 <nobr><img align="center" src="https://github-readme-stats.vercel.app/api?username=esamohammad&show_icons=true&line_height=27&count_private=true&title_color=7fff00&text_color=e5f7ef&icon_color=43ffaf&bg_color=0D1117&hide_border=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esamohammad&title_color=7fff00&text_color=e5f7ef&icon_color=526777&hide_border=true&bg_color=0D1117&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esamohammad&title_color=7fff00&text_color=e5f7ef&icon_color=526777&hide_border=true&bg_color=0D1117&langs_count=3" />
 </nobr>
-
+</td></tr></table>
+<table><tr><td>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=esamohammad&hide_border=true&background=0D1117&ring=7fff00&fire=ff652f&currStreakNum=7fff00&sideLabels=FFFFFF&dates=FFFFFF&currStreakLabel=FFFFFF&sideNums=7fff00" /></p>
+  </td></tr></table>
+
 
 
 <br><br>
@@ -146,18 +149,21 @@ I am a web developer💖✨ with a passion for building innovative and user-frie
    <!--  ================================================  -->
    <!-- 💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥 -->
 </div> 
-
+<table><tr><td>
  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=esamohammad&theme=chartreuse-dark&bg_color=000&hide_border=true" width="100%"/>
-
+</td></tr></table>
 
 
 <hr>
 <!--  Project png-->
 <!-- ![55 png](https://user-images.githubusercontent.com/113727503/210175898-86362362-5152-4849-9263-4a018cadd21e.png) -->
+<table><tr><td>
 <img align='center' height='170' width="1366"  src='https://user-images.githubusercontent.com/113727503/210175898-86362362-5152-4849-9263-4a018cadd21e.png' alt='Skills'>
+</td></tr></table>
 <hr>
 
 <!--======================================== -->
+<br>
 <div id="project Developed Templates" align="center">
 
 ## 💥 Java Script Fun Project 💥
