@@ -267,30 +267,7 @@ I am a web developer💖✨ with a passion for building innovative and user-frie
     <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=esamohammad&repo=ultra-active-club&theme=chartreuse-dark&bg_color=000&hide_border=true" alt="Cars-Repair-Site-Autofix">   
   </a>
   
-<!--   2 -->
-  <a href="https://volti.netlify.app/">
-    <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=esamohammad&repo=E-Bike-Volti&theme=chartreuse-dark&bg_color=000&hide_border=true" alt="E-Bike-Volti">   
-  </a>
-  
-<!--   3 -->
- <a href="https://pakusta.netlify.app/">
-    <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=mdesabd&repo=Restaurant-Site-Pakusta&theme=chartreuse-dark&bg_color=000&hide_border=true" alt="Restaurant-Site-Pakusta">   
-  </a>
-     
-<!--   4 -->
-<a href="https://coffee-bee.netlify.app/">
-    <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=mdesabd&repo=Coffee-Website&theme=chartreuse-dark&bg_color=000&hide_border=true" alt="Coffee-Website">   
-  </a>
-  
-<!--   5 -->
-  <a href="https://befit-23.netlify.app/">
-    <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=mdesabd&repo=Gym-site-Befit&theme=chartreuse-dark&bg_color=000&hide_border=true" alt="Gym-site-Befit">   
-  </a>
-  
-<!--   6 -->
-  <a href="https://travelgo23.netlify.app/">
-    <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=mdesabd&repo=Tour-Site-Travelgo&theme=chartreuse-dark&bg_color=000&hide_border=true" alt="Tour-Site-Travelgo">   
-  </a> 
+
   
 </p> 
 
