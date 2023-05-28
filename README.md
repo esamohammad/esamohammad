@@ -309,9 +309,9 @@ I am a web developer💖✨ with a passion for building innovative and user-frie
   </a>
   
 <!--   3 -->
-<a href="https://car-service-client-85955.web.app/">
-    <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=esamohammad&repo=car-service-client-site&theme=chartreuse-dark&bg_color=000&hide_border=true" alt="Cars-Repair-Site-Autofix">   
-  </a>
+<!-- <a href="https://doctors-portal-5c4fe.web.app/">
+    <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=esamohammad&repo=doctor-client-site&theme=chartreuse-dark&bg_color=000&hide_border=true" alt="news">   
+  </a> -->
   
 </p> 
 
