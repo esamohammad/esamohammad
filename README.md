@@ -1,11 +1,3 @@
-
-
-<div style="background-color: 0000be" id="header" align="center" background-color="violet">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="130"/>
-</div>
-
-<br /> 
-
 <div align="center">
   
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=react&logoColor=61DAFB">](https://esa-portfolio.netlify.app/)
@@ -19,12 +11,12 @@
 
 <div>
 <!--hand gif  -->
-<h1 align="center"> Hello, I'm Esa Ruhullah <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"  > ! </h1>
+<h1 align="center"> Hello, I'm Esa Mohammad <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"  > ! </h1>
 
 <!--Bd flag-->
-<h3 align="center">I'm an enthusiastic and passionate Web Developer from Bangladesh <img src="https://bestanimations.com/media/bangladesh/1932860375bangladesh-flag-waving-gif-animation-6.gif#.Y7aWtlAZZRY.link" width="100px" height="60px"/></h3>  
+  
 <div align="left" text-align= "justify">
-I am a web developer💖✨ with a passion for building innovative and user-friendly websites and applications. I specialize in the 🎯MERN stack (MongoDB, Express, React, and Node.js) and have a strong foundation in front-end and back-end development. I am excited to bring my skills and experience to new opportunities and help build the next generation of web-based solutions🚀.
+Esa Mohammad has been learning MERN Stack for the last 1 year. Now, I am seeking of a paid internship or Jr. developer job to utilize my technical skills, talent, creativity, and sincerity, and explore new skills for the better achievement of any organization.
 </div>
  <br />
 
@@ -37,82 +29,22 @@ I am a web developer💖✨ with a passion for building innovative and user-frie
 ![focus](https://img.shields.io/badge/focus-FullStack-critical)
 ![projects](https://img.shields.io/badge/projects-30-important)
     <br><br>
-<img align='right' height='200'  src='https://user-images.githubusercontent.com/113727503/211640671-ad9fe273-eccd-472c-b563-aadbf7410b16.gif'>
-  <br />
-    </div>
 
-
-- 🌱 I’m currently learning Redux.
-- 👯 I’m looking to collaborate on MERN projects with other passionate developers.
-- 🥅 2023 Goals: To be Master on React, React Native and Redux as well as Wordpress
-<!-- - 🎯 Please have a look at my [Portfolio Site](https://cooming-soon-23.netlify.app/) for more details about me.  -->
-- 📧 How to reach me: esa.webdeveloper@gmail.com
-  
-</div>
-<br><br>
-<div align="center">
-<img align='center' height='180'  src='https://user-images.githubusercontent.com/113727503/211645614-71f5041e-e5b8-4089-8fee-6bce8d6bdd34.gif' alt='Skills'>
-</div>
-
-
-
-<br>
-<div align="left">
-  
-  <div align="center">
     
-##  📝 Top Blog Posts 📝
+
+
+
+
+
+
+
+
+
     
- </div> 
-<!-- <img align='right' height='220'  src='https://user-images.githubusercontent.com/113727503/211651804-d9119dfd-60bb-4322-a8c0-20689debad5a.gif'> -->
-  
 
--   [How to be a web developer in 2023?](https://medium.com/@esa.ce2020/how-to-be-a-web-developer-in-2023-just-focus-on-your-task-e2f7df5a6174?target=_blank)
--   [CSS Grid and Flex Example.](https://medium.com/@esa.ce2020/grid-and-flex-in-css-b1ddc09e4095)
--   [MERN Stack or Wordpress ??](https://medium.com/@esa.ce2020/mern-stack-or-wordpress-a9057dc8d21c)
--   [Useful extension of VS code.](https://medium.com/@esa.ce2020/useful-extension-of-vs-code-4e5321ec040d)
-
-
-
-
-    </div> 
-  <br>
-<div align="center">
-  <br><br>
 <!--  ================================================  -->
   
-## 💥 My Skills 💥 
-<!--  ================================================  -->
-  <!-- 💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥 -->
-</div> 
-<div align="center">
-<p align="center" >
-  <a href="https://skillicons.dev">
-    <img  src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,express,firebase,mongodb,netlify,vercel,ps,node" />
-  </a>
-</p>
-  </div>
 
-<br><br>
-<div align="center">
- <!--  ================================================  -->
-
-## 💖 My Favourite Stack 💖
- <!--  ================================================  -->
-  <!-- 💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥 -->
-</div> 
-  
-<!-- <img alt="Redux.js" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" /> -->
-<div align="center">
-<img alt="React.js" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img alt="Bootstrup" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>  
-<img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-<img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
-<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-</div>
-<br>
-<br>
 
 <br><br>
 <div align="center">
@@ -143,15 +75,7 @@ I am a web developer💖✨ with a passion for building innovative and user-frie
 
 
 <br><br>
-<div align="center">
 
-## 🎯💫 My Contribution Graph  💫🎯
-   <!--  ================================================  -->
-   <!-- 💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥 -->
-</div> 
-<table><tr><td>
- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=esamohammad&theme=chartreuse-dark&bg_color=000&hide_border=true" width="100%"/>
-</td></tr></table>
 
 
 <hr>
