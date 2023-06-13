@@ -13,7 +13,7 @@
 <!--hand gif  -->
 <h1 align="center"> Hello, I'm Esa Mohammad <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"  > ! </h1>
 
-<!--Bd flag-->
+
   
 <div align="left" text-align= "justify">
 Esa Mohammad has been learning MERN Stack for the last 1 year. Now, I am seeking of a paid internship or Jr. developer job to utilize my technical skills, talent, creativity, and sincerity, and explore new skills for the better achievement of any organization.
@@ -30,10 +30,45 @@ Esa Mohammad has been learning MERN Stack for the last 1 year. Now, I am seeking
 ![projects](https://img.shields.io/badge/projects-30-important)
     <br><br>
 
+
     
+  
+<div align = "left">
+  
+### **🔭Have worked with the following technologies:**
+	Programming Language            : JavaScript.
+	Frontend Development            : HTML, CSS, Bootstrap, Tailwind, React.js.
+	Backend Development             : Node JS, Express JS.
+	Databases & Storage		: MongoDB.
+	Authentication		        : Firebase, JWT.
+	Version Control                 : Git with Smart Git Flow; GitHub.
+	
 
 
 
+### **Have knowledge of the following technologies:**
+	Languages			: C
+	Frameworks/CMS		  	: WordPress, Next JS, Redux.
+	Databases & Storage		: MySql.
+
+### **🌱 Learning and exploring:**
+	*	Test-driven development (TDD) practices.
+	*	Cloud architecture and implementations.
+	*	Nest JS
+
+
+### **Business Domains of Experience**
+	*	Financial Technology (FinTech)
+	*	Microfinance Management System Development(MIS & AIS)
+	*	Supply Chain
+	*	ERP Development For Garments Industry
+	*	Telecommunication
+### 📫  How to reach me:
+    Email     : rahibhasan689009@gmail.com
+    Linkedin  : https://www.linkedin.com/in/hasan-ali-haoalader-04b2bb10b/    
+
+
+</div> 
 
 
 
