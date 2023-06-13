@@ -46,26 +46,25 @@ Esa Mohammad has been learning MERN Stack for the last 1 year. Now, I am seeking
 
 
 
-### **Have knowledge of the following technologies:**
+### **✅ Have knowledge of the following technologies:**
 	Languages			: C
 	Frameworks/CMS		  	: WordPress, Next JS, Redux.
 	Databases & Storage		: MySql.
 
 ### **🌱 Learning and exploring:**
-	*	Test-driven development (TDD) practices.
-	*	Cloud architecture and implementations.
-	*	Nest JS
+	* Typescript 
+ 	* AWS
+ 	* Docker
+ 	* PostgreSQL
+	* GraphQL
+	* React Native
 
 
-### **Business Domains of Experience**
-	*	Financial Technology (FinTech)
-	*	Microfinance Management System Development(MIS & AIS)
-	*	Supply Chain
-	*	ERP Development For Garments Industry
-	*	Telecommunication
+
 ### 📫  How to reach me:
-    Email     : rahibhasan689009@gmail.com
-    Linkedin  : https://www.linkedin.com/in/hasan-ali-haoalader-04b2bb10b/    
+    Email     : esa.ce2020@gmail.com
+    Mobile    : 01683476483
+    Linkedin  : https://www.linkedin.com/in/esa-ruhullah-304010167/
 
 
 </div> 
