@@ -37,12 +37,16 @@ Esa Mohammad has been learning MERN Stack for the last 1 year. Now, I am seeking
   
 ### **🔭Have worked with the following technologies:**
 	Programming Language            : JavaScript.
-	Frontend Development            : HTML, CSS, Bootstrap, Tailwind, React.js.
+	Frontend Development            : HTML, CSS.
+ 	Frameworks			: Bootstrap, Tailwind, MaterialUI, DaisyUI.
+  	Library				: React.js.
 	Backend Development             : Node JS, Express JS.
+ 	Payment Gateway			: Stripe.
 	Databases & Storage		: MongoDB.
-	Authentication		        : Firebase, JWT.
+	Authentication		        : Firebase.
+	Security Key			: JWT.
 	Version Control                 : Git with Smart Git Flow; GitHub.
-	
+ 	Tools				: Visual studio code, Code blocks, Notepad++.
 
 
 
