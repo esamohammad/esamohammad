@@ -51,9 +51,9 @@ Esa Mohammad has been learning MERN Stack for the last 1 year. Now, I am seeking
 
 
 ### **✅ Have knowledge of the following technologies:**
-	Languages			: C
+	Languages			: C#
 	Frameworks/CMS		  	: WordPress, Next JS, Redux.
-	Databases & Storage		: MySql.
+	Databases & Storage		: Sql.
 
 ### **🌱 Learning and exploring:**
 	* Typescript 
@@ -66,9 +66,9 @@ Esa Mohammad has been learning MERN Stack for the last 1 year. Now, I am seeking
 
 
 ### 📫  How to reach me:
+    Mobile    : 0168 347 648 3
     Email     : esa.ce2020@gmail.com
-    Mobile    : 01683476483
-    Linkedin  : https://www.linkedin.com/in/esa-ruhullah-304010167/
+    Linkedin  : https://www.linkedin.com/in/esamohammad/
 
 
 </div> 
